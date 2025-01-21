@@ -31,7 +31,7 @@ export default function Login() {
                 </div>
 
                 <div className="flex justify-end">
-                    <a href="#" className="text-sm text-indigo-600 hover:underline">
+                    <a href="#loginView" className="text-sm text-indigo-600 hover:underline">
                         Forgot your password?
                     </a>
                 </div>
